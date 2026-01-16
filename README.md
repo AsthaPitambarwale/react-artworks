@@ -2,6 +2,7 @@
 
 This project is a React + TypeScript application built as part of a technical assignment.  
 It displays artworks from the Art Institute of Chicago public API using a paginated data table with persistent row selection.
+Project Live on: https://artworks-react.netlify.app/
 
 ## Tech Stack
 
